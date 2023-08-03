@@ -1,0 +1,102 @@
+.Iphone8Plus1 {
+    width: 563px; height: 838px; position: relative; background: #D7DCEE; border: 1px #898BC2 solid;
+}
+.Rectangle2 {
+    width: 216px; height: 640px; left: -1px; top: 201px; position: absolute; background: #18335B;
+}
+.Rectangle3 {
+    width: 160px; height: 35px; left: 28px; top: 212px; position: absolute; background: #FF6C01; border-radius: 10px;
+}
+.Rectangle4 {
+    width: 160px; height: 35px; left: 25px; top: 563px; position: absolute; background: #FF6C01; border-radius: 10px;
+}
+.Nama {
+    width: 41px; height: 27px; left: 13px; top: 256px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.TempatTanggalLahir {
+    left: 13px; top: 300px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.JenisKelamin {
+    left: 13px; top: 346px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Agama {
+    left: 14px; top: 393px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Alamat {
+    left: 14px; top: 444px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Instagram {
+    left: 14px; top: 489px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Hobi {
+    left: 86px; top: 572px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.DataPribadi {
+    left: 55px; top: 220px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.SepakBola {
+    left: 16px; top: 617px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Memancing {
+    left: 16px; top: 643px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Muncak {
+    left: 16px; top: 669px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Rectangle5 {
+    width: 261px; height: 35px; left: 257px; top: 249px; position: absolute; background: #18335B; border-radius: 10px;
+}
+.Rectangle6 {
+    width: 261px; height: 35px; left: 257px; top: 375px; position: absolute; background: #18335B; border-radius: 10px;
+}
+.Rectangle7 {
+    width: 261px; height: 35px; left: 257px; top: 497px; position: absolute; background: #18335B; border-radius: 10px;
+}
+.TentangSaya {
+    left: 329px; top: 257px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.RiwayatPendidikan {
+    left: 305px; top: 383px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.Pengalaman {
+    left: 331px; top: 505px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.AhmadHaikalRamadani {
+    left: 13px; top: 275px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.Lumajang {
+    left: 14px; top: 320px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.Islam {
+    left: 14px; top: 411px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.Rectangle8 {
+    width: 563px; height: 198px; left: -1px; top: 2px; position: absolute; background: #D9D9D9;
+}
+.AhmadHaikal {
+    left: 183px; top: 96px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word;
+}
+.RanduAgung {
+    left: 13px; top: 463px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.Tk {
+    left: 308px; top: 427px; position: absolute; text-align: center; color: #0B0B0B; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.HikelRmdn {
+    left: 13px; top: 511px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.SayaAdalah {
+    left: 258px; top: 296px; position: absolute; text-align: center; color: black; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.LakiLaki {
+    left: 15px; top: 366px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.HaloSemuanya {
+    left: 230px; top: 549px; position: absolute; text-align: center; color: black; font-size: 11px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.DaftarRiwayatHidup {
+    left: 185px; top: 75px; position: absolute; text-align: center; color: white; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.Jass1 {
+    width: 131px; height: 173.15px; left: 28px; top: 10.33px; position: absolute; backdrop-filter: blur(4px);
+}
