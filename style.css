@@ -98,5 +98,5 @@
     left: 185px; top: 75px; position: absolute; text-align: center; color: white; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word;
 }
 .Jass1 {
-    width: 131px; height: 173.15px; left: 28px; top: 10.33px; position: absolute; backdrop-filter: blur(4px);
+    width: 128px; height: 192px; left: 31px; top: 5px; position: absolute; border-radius: 15px;
 }
